@@ -4,4 +4,4 @@ A curated list of awesome things related to IHP, the fastest way to build type s
 
 ## Projects using IHP
 
-- [Retros](https://retros.ihpapp.com) - Trello-like boards for your team retrospectives
+- [Retros](https://retros.ihpapp.com) - Trello-like boards for your team retrospectives - [Source Code](https://github.com/rametta/retros)
